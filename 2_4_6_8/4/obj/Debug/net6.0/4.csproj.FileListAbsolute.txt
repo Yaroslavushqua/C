@@ -1,0 +1,15 @@
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\bin\Debug\net6.0\4.exe
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\bin\Debug\net6.0\4.deps.json
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\bin\Debug\net6.0\4.runtimeconfig.json
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\bin\Debug\net6.0\4.dll
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\bin\Debug\net6.0\4.pdb
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\4.dll
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\refint\4.dll
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\4.pdb
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+D:\Documents\Desktop\Exampels\DZ_2_4_6_8\4\obj\Debug\net6.0\ref\4.dll

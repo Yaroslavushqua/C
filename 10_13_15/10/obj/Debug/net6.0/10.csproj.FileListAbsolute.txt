@@ -1,0 +1,15 @@
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\bin\Debug\net6.0\10.exe
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\bin\Debug\net6.0\10.deps.json
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\bin\Debug\net6.0\10.runtimeconfig.json
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\bin\Debug\net6.0\10.dll
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\bin\Debug\net6.0\10.pdb
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\10.csproj.AssemblyReference.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\10.AssemblyInfoInputs.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\10.AssemblyInfo.cs
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\10.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\10.dll
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\refint\10.dll
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\10.pdb
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\10.genruntimeconfig.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ\10_13_15\10\obj\Debug\net6.0\ref\10.dll
