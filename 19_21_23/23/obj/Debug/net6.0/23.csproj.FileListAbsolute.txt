@@ -1,0 +1,15 @@
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\23.csproj.AssemblyReference.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\23.AssemblyInfoInputs.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\23.AssemblyInfo.cs
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\23.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\bin\Debug\net6.0\23.exe
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\bin\Debug\net6.0\23.deps.json
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\bin\Debug\net6.0\23.runtimeconfig.json
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\bin\Debug\net6.0\23.dll
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\bin\Debug\net6.0\23.pdb
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\23.dll
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\refint\23.dll
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\23.pdb
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\23.genruntimeconfig.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\19_21_23\23\obj\Debug\net6.0\ref\23.dll
