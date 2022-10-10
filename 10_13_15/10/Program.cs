@@ -7,7 +7,7 @@
 int n = new Random().Next(99,1000);
 Console.WriteLine(n);
 
-int first = n/100; 
-int third = n%10;
+int delNum3 = n/10; 
+int Num2 = delNum3 % 10;
 
-Console.WriteLine(first + "" + third);
+Console.WriteLine("Вторая цифра числа = " + Num2);
