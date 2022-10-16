@@ -1,0 +1,15 @@
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\34.csproj.AssemblyReference.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\34.AssemblyInfoInputs.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\34.AssemblyInfo.cs
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\34.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\bin\Debug\net6.0\34.exe
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\bin\Debug\net6.0\34.deps.json
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\bin\Debug\net6.0\34.runtimeconfig.json
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\bin\Debug\net6.0\34.dll
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\bin\Debug\net6.0\34.pdb
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\34.dll
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\refint\34.dll
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\34.pdb
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\34.genruntimeconfig.cache
+D:\Documents\Desktop\Учёба\Exampels\DZ_C#\34_36_38\34\obj\Debug\net6.0\ref\34.dll
